@@ -19,7 +19,7 @@ const config = {
 }
 
 const endPoints = [
-    {  name: 'dannicleo', defaultUrl: 'https://www.google.com.br', redirectUrl: 'https://www.manal.com.br/'      },
+    {  name: 'dannicleo', defaultUrl: 'https://www.google.com.br', redirectUrl: 'https://www.heroku.com/'      },
     {  name: 'pricila',   defaultUrl: 'https://www.google.com.br', redirectUrl: 'https://www.americanas.com.br/' },
     {  name: 'george',    defaultUrl: 'https://www.google.com.br', redirectUrl: 'https://www.amazon.com.br/'     },
     {  name: 'ricardo',   defaultUrl: 'https://www.google.com.br', redirectUrl: 'https://www.microsoft.com.br/'  },
