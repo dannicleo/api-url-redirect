@@ -1,0 +1,21 @@
+{
+  "name": "api-dinamic-router",
+  "version": "1.0.0",
+  "description": "Api para redirecionamento de urls",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "t": "jest"
+  },
+  "author": "Dannicléo Teles",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "helmet": "^6.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.20"
+  }
+}
